@@ -337,6 +337,7 @@ section.images img {
 
 .nav_toggle{
   display: block;
+  
 }
 .Menu{
   width: 100vw;
@@ -376,6 +377,7 @@ section.images img {
 }
 .tonggle_button{
   display: block;
+  
 }
 }
 
@@ -410,6 +412,7 @@ section.images img {
   }
   .nav_toggle {
       display: none;
+    
   }
 }
 
