@@ -329,14 +329,11 @@ section.images img {
   display: block;
 }
 
-/* .slidebox{
-  width: 100vw;
-  background-color: red;
-  position: absolute;
-  top: 4rem;
-  left: 0;
-  height: 16rem;
-}  */
+.slidebox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
 
 .nav_toggle{
   display: block;
@@ -392,11 +389,13 @@ section.images img {
   .Top-header {
       flex-direction: column;
       align-items: flex-start;
+      display: none;
   }
   .Social-icon,
   .Search {
       margin-bottom: 10px;
   }
+  
   
 }
 
